@@ -1,6 +1,6 @@
 # uvAyRETT [uvAyRETT]("https://modelica.org/libraries/")
 
-he provided code snippet is a comment containing the name "UvayRETT" and a link to the Modelica libraries website. It does not contain any executable code. The code block does not require any additional code beyond the immediate scope.
+he provided code snippet is a comment containing the name "uvAyRETT" and a link to the Modelica libraries website. It does not contain any executable code. The code block does not require any additional code beyond the immediate scope.
 
 Modelica Libraries
 
